@@ -2,7 +2,7 @@
 
 [![npm version](https://badgen.net/npm/v/unplugin-uni-api-checker)](https://github.com/Nibblerrr/unplugin-uni-api-checker)
 
-<h1 align="center">在终端提示使用的 uniapp API 在不同平台的兼容性，以及提示不兼容的 API</h1>
+<h3 align="center">在终端提示使用的 uniapp API 在不同平台的兼容性和不兼容的 API</h3>
 
 ## ⚙️ 安装
 

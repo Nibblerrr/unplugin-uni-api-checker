@@ -1,17 +1,17 @@
 {
   "name": "unplugin-uni-api-checker",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "pnpm@8.6.12",
   "description": "",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/unplugin-starter#readme",
+  "homepage": "https://github.com/Nibblerrr/unplugin-uni-api-checker#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/unplugin-starter.git"
+    "url": "git+https://github.com/Nibblerrr/unplugin-uni-api-checker.git"
   },
   "bugs": {
-    "url": "https://github.com/antfu/unplugin-starter/issues"
+    "url": "https://github.com/Nibblerrr/unplugin-uni-api-checker/issues"
   },
   "keywords": [
     "unplugin",

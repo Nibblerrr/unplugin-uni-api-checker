@@ -1,0 +1,4692 @@
+{
+  "uni.base64ToArrayBuffer": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.arrayBufferToBase64": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getImageInfo": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.saveImageToPhotosAlbum": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.compressImage": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√(基础库版本>=3.110.3)"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getBackgroundAudioManager": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.createInnerAudioContext": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "1.23.4+"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getRecorderManager": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.chooseFile": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.chooseVideo": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.chooseMedia": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "2.10.0+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.saveVideoToPhotosAlbum": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getVideoInfo": [
+    {
+      "type": "App",
+      "value": "3.1.10+"
+    },
+    {
+      "type": "H5",
+      "value": "3.1.10+"
+    },
+    {
+      "type": "微信小程序",
+      "value": "2.11.0+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.compressVideo": [
+    {
+      "type": "App",
+      "value": "3.1.10+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "2.11.0+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.openVideoEditor": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "2.12.0+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.createVideoContext": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "基础库版本>=1.10.0"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.saveFile": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getSavedFileList": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getSavedFileInfo": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.removeSavedFile": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getFileInfo": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.openDocument": [
+    {
+      "type": "平台",
+      "value": "小程序"
+    },
+    {
+      "type": "打开方式",
+      "value": "在小程序的入口应用内打开"
+    }
+  ],
+  "uni.createCameraContext": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getStorageInfo": [
+    {
+      "type": "App",
+      "value": "HBuilderX 2.0.3+"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getStorageInfoSync": [
+    {
+      "type": "App",
+      "value": "HBuilderX 2.0.3+"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    }
+  ],
+  "uni.chooseLocation": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.openLocation": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.createLivePlayerContext": [
+    {
+      "type": "App",
+      "value": "见下"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.createLivePusherContext": [
+    {
+      "type": "App",
+      "value": "见下"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    }
+  ],
+  "uni.onMemoryWarning": [
+    {
+      "type": "App",
+      "value": "Android 3.6.9+、iOS 3.6.11+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.offMemoryWarning": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.offNetworkStatusChange": [
+    {
+      "type": "App",
+      "value": "HBuilderX 3.0.1+"
+    },
+    {
+      "type": "H5",
+      "value": "HBuilderX 3.0.1+"
+    },
+    {
+      "type": "微信小程序",
+      "value": "基础库 2.9.3+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.createMapContext": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "1.9.0+"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.offAccelerometerChange": [
+    {
+      "type": "App",
+      "value": "HBuilderX 2.9.6+"
+    },
+    {
+      "type": "H5",
+      "value": "HBuilderX 2.9.6+"
+    },
+    {
+      "type": "微信小程序",
+      "value": "基础库 2.9.3+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.startAccelerometer": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.offCompassChange": [
+    {
+      "type": "App",
+      "value": "HBuilderX 2.9.6+"
+    },
+    {
+      "type": "H5",
+      "value": "HBuilderX 2.9.6+"
+    },
+    {
+      "type": "微信小程序",
+      "value": "基础库 2.9.3+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.startCompass": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.onGyroscopeChange": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    }
+  ],
+  "uni.startGyroscope": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    }
+  ],
+  "uni.stopGyroscope": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    }
+  ],
+  "uni.setScreenBrightness": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getScreenBrightness": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setKeepScreenOn": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setClipboardData": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getClipboardData": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.scanCode": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onUserCaptureScreen": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.offUserCaptureScreen": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setUserCaptureScreen": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.addPhoneContact": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.openBluetoothAdapter": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.startBluetoothDevicesDiscovery": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onBluetoothDeviceFound": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.stopBluetoothDevicesDiscovery": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onBluetoothAdapterStateChange": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getConnectedBluetoothDevices": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getBluetoothDevices": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getBluetoothAdapterState": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.closeBluetoothAdapter": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setBLEMTU": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.writeBLECharacteristicValue": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.readBLECharacteristicValue": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onBLEConnectionStateChange": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onBLECharacteristicValueChange": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.notifyBLECharacteristicValueChange": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getBLEDeviceServices": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getBLEDeviceRSSI": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getBLEDeviceCharacteristics": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.createBLEConnection": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.closeBLEConnection": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onBeaconServiceChange": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.onBeaconUpdate": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getBeacons": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.startBeaconDiscovery": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.stopBeaconDiscovery": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "x"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.startSoterAuthentication": [
+    {
+      "type": "App",
+      "value": "√（2.3.8+）"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    }
+  ],
+  "uni.setNavigationBarColor": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.showNavigationBarLoading": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.hideNavigationBarLoading": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.hideHomeButton": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "1.48.0+"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "1.10.0+"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setBackgroundColor": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setBackgroundTextStyle": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setTabBarItem": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√（钉钉小程序不支持）"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setTabBarStyle": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.hideTabBar": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.showTabBar": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.setTabBarBadge": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.removeTabBarBadge": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.showTabBarRedDot": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.hideTabBarRedDot": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onTabBarMidButtonTap": [
+    {
+      "type": "App",
+      "value": "√（HBuilderX 2.3.4+）"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.createAnimation": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "HBuilderX 2.0.4+"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.canvasToTempFilePath": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.hideKeyboard": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "√"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.onKeyboardHeightChange": [
+    {
+      "type": "App",
+      "value": "HBuilderX 2.2.3+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "基础库2.7+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "HBuilderX 3.6.8+"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.offKeyboardHeightChange": [
+    {
+      "type": "App",
+      "value": "HBuilderX 3.1.0+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "基础库2.9.2+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "HBuilderX 3.6.8+"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getSelectedTextRange": [
+    {
+      "type": "App",
+      "value": "HBuilderX 2.8.12+"
+    },
+    {
+      "type": "H5",
+      "value": "HBuilderX 2.8.12+"
+    },
+    {
+      "type": "微信小程序",
+      "value": "基础库 2.7.0+"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getProvider": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "企业微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    }
+  ],
+  "uni.login": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getLoginCode": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.checkSession": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getUserInfo": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getUserProfile": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√（基础库2.10.4）"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√（基础库2.30.0）"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.preLogin": [
+    {
+      "type": "App",
+      "value": "3.0.0+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.closeAuthView": [
+    {
+      "type": "App",
+      "value": "3.0.0+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getCheckBoxState": [
+    {
+      "type": "App",
+      "value": "3.2.3+"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getUniverifyManager": [
+    {
+      "type": "App",
+      "value": "√ (3.2.13+)"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.share": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.shareWithSystem": [
+    {
+      "type": "App",
+      "value": "√(App 2.6.4+)"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.showShareMenu": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.hideShareMenu": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√(1.17.0+)"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.createPushMessage": [
+    {
+      "type": "App",
+      "value": "√"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "快应用",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "x"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "x"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.authorize": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.openSetting": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getSetting": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.chooseAddress": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.setEnableDebug": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.getUpdateManager": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "√"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.navigateToMiniProgram": [
+    {
+      "type": "App",
+      "value": "x(见下)"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√(1.15.0+)"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.navigateBackMiniProgram": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "√"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "京东小程序",
+      "value": "√"
+    }
+  ],
+  "uni.chooseInvoiceTitle": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序、飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "√"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getExtConfig": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ],
+  "uni.getExtConfigSync": [
+    {
+      "type": "App",
+      "value": "x"
+    },
+    {
+      "type": "H5",
+      "value": "x"
+    },
+    {
+      "type": "微信小程序",
+      "value": "√"
+    },
+    {
+      "type": "支付宝小程序",
+      "value": "x"
+    },
+    {
+      "type": "百度小程序",
+      "value": "√"
+    },
+    {
+      "type": "抖音小程序",
+      "value": "√"
+    },
+    {
+      "type": "飞书小程序",
+      "value": "x"
+    },
+    {
+      "type": "QQ小程序",
+      "value": "x"
+    },
+    {
+      "type": "快手小程序",
+      "value": "x"
+    },
+    {
+      "type": "京东小程序",
+      "value": "x"
+    }
+  ]
+}

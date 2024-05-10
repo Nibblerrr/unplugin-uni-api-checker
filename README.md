@@ -1,45 +1,38 @@
-# unplugin-starter
+<h1 align="center">unplugin-uni-api-checker</h1>
 
-[![NPM version](https://img.shields.io/npm/v/unplugin-starter?color=a1b858&label=)](https://www.npmjs.com/package/unplugin-starter)
+[![npm version](https://badgen.net/npm/v/unplugin-uni-api-checker)](https://github.com/Nibblerrr/unplugin-uni-api-checker)
 
-Starter template for [unplugin](https://github.com/unjs/unplugin).
+<h1 align="center">在终端提示使用的 uniapp API 在不同平台的兼容性，以及提示不兼容的 API</h1>
 
-## Template Usage
+## ⚙️ 安装
 
-To use this template, clone it down using:
-
-```bash
-npx degit unplugin/unplugin-starter my-unplugin
-```
-
-And do a global replacement of `unplugin-starter` with your plugin name.
-
-Then you can start developing your unplugin 🔥
-
-To test your plugin, run: `pnpm run dev`
-To release a new version, run: `pnpm run release`
-
-## Install
+根据你的包管理器，使用以下命令安装
 
 ```bash
-npm i unplugin-starter
+npm i unplugin-uni-api-checker -D
+# Or pnpm
+pnpm add unplugin-uni-api-checker -D
+# Or Yarn
+yarn add unplugin-uni-api-checker --dev
 ```
+
+## 📖 使用
 
 <details>
 <summary>Vite</summary><br>
 
 ```ts
 // vite.config.ts
-import Starter from 'unplugin-starter/vite'
+import APIChecker from 'unplugin-uni-api-checker/vite'
 
 export default defineConfig({
   plugins: [
-    Starter({ /* options */ }),
+    APIChecker({
+      /* options */
+    }),
   ],
 })
 ```
-
-Example: [`playground/`](./playground/)
 
 <br></details>
 
@@ -48,17 +41,18 @@ Example: [`playground/`](./playground/)
 
 ```ts
 // rollup.config.js
-import Starter from 'unplugin-starter/rollup'
+import APIChecker from 'unplugin-uni-api-checker/rollup'
 
 export default {
   plugins: [
-    Starter({ /* options */ }),
+    APIChecker({
+      /* options */
+    }),
   ],
 }
 ```
 
 <br></details>
-
 
 <details>
 <summary>Webpack</summary><br>
@@ -68,8 +62,10 @@ export default {
 module.exports = {
   /* ... */
   plugins: [
-    require('unplugin-starter/webpack')({ /* options */ })
-  ]
+    require('unplugin-uni-api-checker/webpack')({
+      /* options */
+    }),
+  ],
 }
 ```
 
@@ -82,7 +78,12 @@ module.exports = {
 // nuxt.config.js
 export default defineNuxtConfig({
   modules: [
-    ['unplugin-starter/nuxt', { /* options */ }],
+    [
+      'unplugin-uni-api-checker/nuxt',
+      {
+        /* options */
+      },
+    ],
   ],
 })
 ```
@@ -99,7 +100,9 @@ export default defineNuxtConfig({
 module.exports = {
   configureWebpack: {
     plugins: [
-      require('unplugin-starter/webpack')({ /* options */ }),
+      require('unplugin-uni-api-checker/webpack')({
+        /* options */
+      }),
     ],
   },
 }
@@ -113,11 +116,50 @@ module.exports = {
 ```ts
 // esbuild.config.js
 import { build } from 'esbuild'
-import Starter from 'unplugin-starter/esbuild'
+import APIChecker from 'unplugin-uni-api-checker/esbuild'
 
 build({
-  plugins: [Starter()],
+  plugins: [APIChecker()],
 })
 ```
 
 <br></details>
+
+## 🔧 配置
+
+buildModeOnly 指定是否只在 build 时提示，默认会在 dev 和 build 运行
+fileExtensions 增加匹配的后缀文件，默认支持.vue、.js、.ts、.jsx、.tsx
+
+```ts
+APIChecker({
+  /* 默认配置 */
+  buildModeOnly: false,
+  fileExtensions: [],
+})
+```
+
+## 项目使用
+
+本项目使用 Anthony Fu 的模板 [unplugin](https://github.com/unjs/unplugin).
+
+克隆后安装好依赖
+
+```bash
+pnpm i
+```
+
+在 playground 中增加测试的项目，在其配置文件中导入插件使用
+play 命令默运行行微信小程序
+play-build:XXX 进行项目不同平台的打包
+crawler 进行 uniapp api 兼容性列表爬取
+
+```bash
+pnpm run play
+pnpm run play-build:h5
+pnpm run crawler
+# 更多查看package.json
+```
+
+## 📄 License
+
+MIT License © 2021-PRESENT Anthony Fu

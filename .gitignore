@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-playground
+playground/*
+!playground/.gitkeep
 ### Node template
 # Logs
 logs

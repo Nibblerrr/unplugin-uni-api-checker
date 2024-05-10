@@ -70,7 +70,7 @@ importers:
         version: 4.6.1
       tsup:
         specifier: ^8.0.1
-        version: 8.0.1(typescript@5.3.2)
+        version: 8.0.1
       typescript:
         specifier: ^5.3.2
         version: 5.3.2
@@ -230,10 +230,10 @@ importers:
         version: 4.7.4
       unocss:
         specifier: ^0.46.4
-        version: 0.46.4(rollup@4.6.1)(vite@3.2.3)
+        version: 0.46.4(vite@3.2.3)
       unocss-preset-weapp:
         specifier: ^0.2.1
-        version: 0.2.1(rollup@4.6.1)
+        version: 0.2.1
       vite:
         specifier: ^3.1.8
         version: 3.2.3(@types/node@17.0.45)(less@4.1.3)(sass@1.53.0)(terser@5.17.7)
@@ -373,7 +373,7 @@ packages:
       '@babel/traverse': 7.24.5
       '@babel/types': 7.24.5
       convert-source-map: 2.0.0
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       gensync: 1.0.0-beta.2
       json5: 2.2.3
       semver: 6.3.1
@@ -622,7 +622,7 @@ packages:
       '@babel/helper-split-export-declaration': 7.24.5
       '@babel/parser': 7.24.5
       '@babel/types': 7.24.5
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
@@ -840,7 +840,7 @@ packages:
       '@vitejs/plugin-vue': 3.2.0(vite@3.2.3)(vue@3.2.45)
       '@vue/compiler-dom': 3.2.41
       '@vue/compiler-sfc': 3.2.41
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       fs-extra: 10.1.0
       picocolors: 1.0.0
       rollup: 2.79.1
@@ -882,7 +882,7 @@ packages:
       '@dcloudio/uni-cli-shared': 3.0.0-alpha-3060920221114001(postcss@8.4.38)(ts-node@10.9.2)(vue@3.2.45)
       address: 1.2.2
       cross-env: 7.0.3
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       default-gateway: 6.0.3
       fs-extra: 10.1.0
       licia: 1.39.2
@@ -922,7 +922,7 @@ packages:
       base64url: 3.0.1
       chokidar: 3.5.3
       compare-versions: 3.6.0
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       es-module-lexer: 0.9.3
       esbuild: 0.15.18
       estree-walker: 2.0.2
@@ -978,7 +978,7 @@ packages:
       '@vue/compiler-sfc': 3.2.41
       '@vue/server-renderer': 3.2.41(vue@3.2.45)
       '@vue/shared': 3.2.41
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       fs-extra: 10.1.0
       mime: 3.0.0
       module-alias: 2.2.3
@@ -1150,7 +1150,7 @@ packages:
       '@dcloudio/uni-shared': 3.0.0-alpha-3060920221114001
       '@vue/compiler-sfc': 3.2.41
       '@vue/shared': 3.2.41
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
     transitivePeerDependencies:
       - postcss
       - supports-color
@@ -1228,7 +1228,7 @@ packages:
     dependencies:
       '@dcloudio/uni-cli-shared': 3.0.0-alpha-3060920221114001(postcss@8.4.38)(ts-node@10.9.2)(vue@3.2.45)
       '@dcloudio/uni-shared': 3.0.0-alpha-3060920221114001
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
     transitivePeerDependencies:
       - postcss
       - supports-color
@@ -1257,7 +1257,7 @@ packages:
       '@vue/compiler-sfc': 3.2.41
       '@vue/shared': 3.2.41
       cac: 6.7.9
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       estree-walker: 2.0.2
       express: 4.19.2
       fast-glob: 3.3.2
@@ -1714,7 +1714,7 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dependencies:
       ajv: 6.12.6
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       espree: 9.6.1
       globals: 13.23.0
       ignore: 5.3.0
@@ -1741,7 +1741,7 @@ packages:
     engines: {node: '>=10.10.0'}
     dependencies:
       '@humanwhocodes/object-schema': 2.0.1
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       minimatch: 3.1.2
     transitivePeerDependencies:
       - supports-color
@@ -1766,7 +1766,7 @@ packages:
       '@antfu/install-pkg': 0.1.1
       '@antfu/utils': 0.7.8
       '@iconify/types': 2.0.0
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       kolorist: 1.8.0
       local-pkg: 0.5.0
       mlly: 1.7.0
@@ -2063,6 +2063,20 @@ packages:
     dependencies:
       estree-walker: 2.0.2
       picomatch: 2.3.1
+
+  /@rollup/pluginutils@5.1.0:
+    resolution: {integrity: sha512-XTIWOPPcpvyKI6L1NHo0lFlCyznUEyPmPY1mc3KpPVDYulHSTvyeLNVW00QTLIAFNhR3kYnJTQHeGqU4M3n09g==}
+    engines: {node: '>=14.0.0'}
+    peerDependencies:
+      rollup: ^1.20.0||^2.0.0||^3.0.0||^4.0.0
+    peerDependenciesMeta:
+      rollup:
+        optional: true
+    dependencies:
+      '@types/estree': 1.0.0
+      estree-walker: 2.0.2
+      picomatch: 2.3.1
+    dev: true
 
   /@rollup/pluginutils@5.1.0(rollup@4.6.1):
     resolution: {integrity: sha512-XTIWOPPcpvyKI6L1NHo0lFlCyznUEyPmPY1mc3KpPVDYulHSTvyeLNVW00QTLIAFNhR3kYnJTQHeGqU4M3n09g==}
@@ -2371,7 +2385,7 @@ packages:
       '@typescript-eslint/scope-manager': 5.30.3
       '@typescript-eslint/type-utils': 5.30.3(eslint@8.55.0)(typescript@4.7.4)
       '@typescript-eslint/utils': 5.30.3(eslint@8.55.0)(typescript@4.7.4)
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       eslint: 8.55.0
       functional-red-black-tree: 1.0.1
       ignore: 5.3.0
@@ -2425,7 +2439,7 @@ packages:
       '@typescript-eslint/scope-manager': 5.30.3
       '@typescript-eslint/types': 5.30.3
       '@typescript-eslint/typescript-estree': 5.30.3(typescript@4.7.4)
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       eslint: 8.55.0
       typescript: 4.7.4
     transitivePeerDependencies:
@@ -2480,7 +2494,7 @@ packages:
         optional: true
     dependencies:
       '@typescript-eslint/utils': 5.30.3(eslint@8.55.0)(typescript@4.7.4)
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       eslint: 8.55.0
       tsutils: 3.21.0(typescript@4.7.4)
       typescript: 4.7.4
@@ -2529,7 +2543,7 @@ packages:
     dependencies:
       '@typescript-eslint/types': 5.30.3
       '@typescript-eslint/visitor-keys': 5.30.3
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       globby: 11.1.0
       is-glob: 4.0.3
       semver: 7.5.4
@@ -2617,24 +2631,24 @@ packages:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
     dev: true
 
-  /@unocss/astro@0.46.4(rollup@4.6.1)(vite@3.2.3):
+  /@unocss/astro@0.46.4(vite@3.2.3):
     resolution: {integrity: sha512-Cyw17FcT6H5N2GvE7kWHj8xSP102T4V6O9dKlFMgQhhWXBIHA0toE2IHM1wV1LWBO93n6b5+FlDQxiFvq+CkUA==}
     dependencies:
       '@unocss/core': 0.46.4
       '@unocss/reset': 0.46.4
-      '@unocss/vite': 0.46.4(rollup@4.6.1)(vite@3.2.3)
+      '@unocss/vite': 0.46.4(vite@3.2.3)
     transitivePeerDependencies:
       - rollup
       - vite
     dev: true
 
-  /@unocss/cli@0.46.4(rollup@4.6.1):
+  /@unocss/cli@0.46.4:
     resolution: {integrity: sha512-egDUf6zqVWJFW1/2Y6NxJRwQ2Jys+DCbQTqCLEwZ4DN3SI7A4rmM/07K4m3JMoLJsn9srH2dnykpvxt2ZN3Uow==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
       '@ampproject/remapping': 2.2.1
-      '@rollup/pluginutils': 5.1.0(rollup@4.6.1)
+      '@rollup/pluginutils': 5.1.0
       '@unocss/config': 0.46.4
       '@unocss/core': 0.46.4
       '@unocss/preset-uno': 0.46.4
@@ -2762,13 +2776,13 @@ packages:
       '@unocss/core': 0.46.4
     dev: true
 
-  /@unocss/vite@0.46.4(rollup@4.6.1)(vite@3.2.3):
+  /@unocss/vite@0.46.4(vite@3.2.3):
     resolution: {integrity: sha512-qWVuogukCkRCNVT7Kuqt4V7lqLMUu/u/IPfF9hA9C5kz/2ZoE3neHzwBrPq34xBBKCcD+eo96skarBTtHpVn0w==}
     peerDependencies:
       vite: ^2.9.0 || ^3.0.0-0
     dependencies:
       '@ampproject/remapping': 2.2.1
-      '@rollup/pluginutils': 5.1.0(rollup@4.6.1)
+      '@rollup/pluginutils': 5.1.0
       '@unocss/config': 0.46.4
       '@unocss/core': 0.46.4
       '@unocss/inspector': 0.46.4
@@ -4183,6 +4197,17 @@ packages:
       ms: 2.1.3
     dev: true
 
+  /debug@4.3.4:
+    resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+    dependencies:
+      ms: 2.1.2
+
   /debug@4.3.4(supports-color@5.5.0):
     resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
     engines: {node: '>=6.0'}
@@ -4194,6 +4219,7 @@ packages:
     dependencies:
       ms: 2.1.2
       supports-color: 5.5.0
+    dev: true
 
   /decamelize-keys@1.1.1:
     resolution: {integrity: sha512-WiPxgEirIV0/eIOMcnFBA3/IJZAZqKnwAwWyvvdi4lsr1WCN22nhdf/3db3DoZcUjTV2SqfzIwNyp6y2xs3nmg==}
@@ -5462,7 +5488,7 @@ packages:
       ajv: 6.12.6
       chalk: 4.1.2
       cross-spawn: 7.0.3
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       doctrine: 3.0.0
       escape-string-regexp: 4.0.0
       eslint-scope: 7.2.2
@@ -8848,7 +8874,7 @@ packages:
   /tslib@2.6.2:
     resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
 
-  /tsup@8.0.1(typescript@5.3.2):
+  /tsup@8.0.1:
     resolution: {integrity: sha512-hvW7gUSG96j53ZTSlT4j/KL0q1Q2l6TqGBFc6/mu/L46IoNWqLLUzLRLP1R8Q7xrJTmkDxxDoojV5uCVs1sVOg==}
     engines: {node: '>=18'}
     hasBin: true
@@ -8870,7 +8896,7 @@ packages:
       bundle-require: 4.0.1(esbuild@0.19.8)
       cac: 6.7.14
       chokidar: 3.5.3
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       esbuild: 0.19.8
       execa: 5.1.1
       globby: 11.1.0
@@ -8881,7 +8907,6 @@ packages:
       source-map: 0.8.0-beta.0
       sucrase: 3.21.0
       tree-kill: 1.2.2
-      typescript: 5.3.2
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -9102,18 +9127,18 @@ packages:
     resolution: {integrity: sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==}
     engines: {node: '>= 10.0.0'}
 
-  /unocss-preset-weapp@0.2.1(rollup@4.6.1):
+  /unocss-preset-weapp@0.2.1:
     resolution: {integrity: sha512-uJlfTJ5WBnA1tqVuIQ7XcGauX3FNLD6fqbYf79grN6O3cfCi8wkAxddbybQIgPkDDRplpCvs6tdO1/l6YJgSvg==}
     dependencies:
-      '@rollup/pluginutils': 5.1.0(rollup@4.6.1)
+      '@rollup/pluginutils': 5.1.0
       '@unocss/core': 0.46.5
-      unplugin-attributify-to-class: 0.2.5(rollup@4.6.1)
-      unplugin-transform-class: 0.2.1(rollup@4.6.1)
+      unplugin-attributify-to-class: 0.2.5
+      unplugin-transform-class: 0.2.1
     transitivePeerDependencies:
       - rollup
     dev: true
 
-  /unocss@0.46.4(rollup@4.6.1)(vite@3.2.3):
+  /unocss@0.46.4(vite@3.2.3):
     resolution: {integrity: sha512-fm+t0p/Sni32s9yxn4JC1nEAHOrjo8vYR0+Wwxnbtu+vYPef/562EFAu2qoagZRRU7pVab1L0EiivcFHlcErGA==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -9122,8 +9147,8 @@ packages:
       '@unocss/webpack':
         optional: true
     dependencies:
-      '@unocss/astro': 0.46.4(rollup@4.6.1)(vite@3.2.3)
-      '@unocss/cli': 0.46.4(rollup@4.6.1)
+      '@unocss/astro': 0.46.4(vite@3.2.3)
+      '@unocss/cli': 0.46.4
       '@unocss/core': 0.46.4
       '@unocss/preset-attributify': 0.46.4
       '@unocss/preset-icons': 0.46.4
@@ -9138,7 +9163,7 @@ packages:
       '@unocss/transformer-compile-class': 0.46.4
       '@unocss/transformer-directives': 0.46.4
       '@unocss/transformer-variant-group': 0.46.4
-      '@unocss/vite': 0.46.4(rollup@4.6.1)(vite@3.2.3)
+      '@unocss/vite': 0.46.4(vite@3.2.3)
     transitivePeerDependencies:
       - rollup
       - supports-color
@@ -9150,31 +9175,31 @@ packages:
     engines: {node: '>= 0.8'}
     dev: true
 
-  /unplugin-attributify-to-class@0.2.5(rollup@4.6.1):
+  /unplugin-attributify-to-class@0.2.5:
     resolution: {integrity: sha512-0lTUi01mI19PmTTX4420QO6gJFic1wK4LqNnHeBNDrthQEKI0xw/lYg0bGnWYgPmyqXz88hAdLG+ibaypibXqg==}
     dependencies:
-      '@rollup/pluginutils': 5.1.0(rollup@4.6.1)
+      '@rollup/pluginutils': 5.1.0
       unplugin: 1.5.1
-      unplugin-transform-class: 0.5.3(rollup@4.6.1)
+      unplugin-transform-class: 0.5.3
     transitivePeerDependencies:
       - rollup
     dev: true
 
-  /unplugin-transform-class@0.2.1(rollup@4.6.1):
+  /unplugin-transform-class@0.2.1:
     resolution: {integrity: sha512-T5Nc4OZDugtEDqdbS2am/XUPyJqU8nO9ZEHLFZIk8O8X2YRW6n9dakqRvsXJS1thlCEomt98wMOXwMUiMaSarw==}
     dependencies:
       '@meoc/utils': 0.2.8
-      '@rollup/pluginutils': 5.1.0(rollup@4.6.1)
+      '@rollup/pluginutils': 5.1.0
       unplugin: 1.0.0
     transitivePeerDependencies:
       - rollup
     dev: true
 
-  /unplugin-transform-class@0.5.3(rollup@4.6.1):
+  /unplugin-transform-class@0.5.3:
     resolution: {integrity: sha512-4xBvfoeBDqlqi9aD0Hv3TTs8JpRs2h9l8LBMXIRXFNTf8biRk6hAQir+zEM/GpBKoMzvt7JqqbMIYzMazQZysQ==}
     dependencies:
       '@meoc/utils': 0.2.8
-      '@rollup/pluginutils': 5.1.0(rollup@4.6.1)
+      '@rollup/pluginutils': 5.1.0
       unplugin: 1.7.1
     transitivePeerDependencies:
       - rollup
@@ -9492,7 +9517,7 @@ packages:
       '@vitest/ui': 0.10.5
       c8: 7.11.3
       chai: 4.3.10
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       local-pkg: 0.4.3
       tinypool: 0.2.4
       tinyspy: 0.3.3
@@ -9595,7 +9620,7 @@ packages:
     peerDependencies:
       eslint: '>=6.0.0'
     dependencies:
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.4
       eslint: 8.55.0
       eslint-scope: 7.2.2
       eslint-visitor-keys: 3.4.3

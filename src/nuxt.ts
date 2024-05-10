@@ -6,13 +6,15 @@ import '@nuxt/schema'
 
 export interface ModuleOptions extends Options {}
 
-export default defineNuxtModule<ModuleOptions>({
+export default defineNuxtModule<Options>({
   meta: {
-    name: 'nuxt-unplugin-starter',
+    name: 'nuxt-unplugin-uni-api-checker',
     configKey: 'unpluginStarter',
   },
   defaults: {
     // ...default options
+    buildModeOnly: false,
+    fileExtensions: [],
   },
   setup(options, _nuxt) {
     addVitePlugin(() => vite(options))

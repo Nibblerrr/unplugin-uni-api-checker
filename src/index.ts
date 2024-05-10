@@ -1,2 +1,2 @@
 export * from './core/types'
-export { default } from './core/unplugin'
+export { default, unpluginFactory } from './core/unplugin'

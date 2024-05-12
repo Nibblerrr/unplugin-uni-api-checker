@@ -5,6 +5,7 @@ import { createUnplugin } from 'unplugin'
 import type { Options } from './types'
 import findAPI from './check'
 import showApi from './showApi'
+import { getFileName } from './utils'
 
 export const unpluginFactory: UnpluginFactory<Options | undefined> = (options) => {
   if (options?.buildModeOnly && process.env.NODE_ENV !== 'production') {
@@ -16,7 +17,7 @@ export const unpluginFactory: UnpluginFactory<Options | undefined> = (options) =
     return {
       name: 'unplugin-uni-api-checker',
       transformInclude(id) {
-        const endsWithFile = ['.ts', '.js', '.vue', '.tsx', 'jsx', ...(options?.fileExtensions ?? [])]
+        const endsWithFile = ['.ts', '.js', '.tsx', '.vue', 'jsx', ...(options?.fileExtensions ?? [])]
         return endsWithFile.some((item) => id.endsWith(item))
       },
       transform(code, id) {

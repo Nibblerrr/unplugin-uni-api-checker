@@ -140,7 +140,7 @@ APIChecker({
 
 ## 项目使用
 
-本项目使用 Anthony Fu 的模板 [unplugin](https://github.com/unjs/unplugin).
+本项目使用 Anthony Fu 的模板 [unplugin](https://github.com/unplugin/unplugin-starter).
 
 克隆后安装好依赖
 

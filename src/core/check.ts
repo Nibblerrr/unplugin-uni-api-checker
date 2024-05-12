@@ -37,9 +37,8 @@ export default function findAPI(sourceCode: string) {
           usedJsonValues.add(entireName)
         }
       }
-      // 添加更多条件检查以提高准确性...
     },
   })
 
   return usedJsonValues
-} // 输出使用的JSON键
+}

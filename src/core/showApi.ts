@@ -3,6 +3,7 @@ import compatibilityList from '../crawler/result1.json'
 import { defaultText, greenText, mapToPlatform, overbold, redText, yellowText } from './const'
 
 import type { Compatibility, CompatibilityList, InCompatibilityList } from './types'
+import { getFileName } from './utils'
 
 const myCompatibilityList: CompatibilityList = compatibilityList
 
@@ -62,7 +63,7 @@ export default function showApi(apiList: Set<string>, id: string, platformValue:
     if (myCompatibilityList[item]) {
       if (!isOutputPath) {
         console.log()
-        console.log(yellowText, '该文件路径使用如下api', defaultText, id.slice(0, id.lastIndexOf('?')))
+        console.log(yellowText, '该文件路径使用如下api', defaultText, getFileName(id))
         isOutputPath = true
       }
 
